@@ -1,0 +1,4 @@
+{"type": "module",
+  "compilerOptions": {},
+  "extends": "expo/tsconfig.base"
+}
